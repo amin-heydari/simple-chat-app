@@ -6,3 +6,6 @@ __pycache__/
 
 # Ignore the IDE specific folder (e.g., for PyCharm)
 .idea/
+
+# Ignore the V1
+V1/

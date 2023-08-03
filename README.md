@@ -6,8 +6,9 @@ This is a simple chat application that allows multiple users to communicate with
 ## Features
 
 - Send and receive messages to/from selected users or the entire group.
-- User-friendly GUI with radio buttons for user selection.
+- User-friendly GUI .
 - Real-time message updates.
+- Messages are sent over ZeroMQ sockets for reliable communication.
 
 ## Requirements
 
@@ -21,4 +22,4 @@ This is a simple chat application that allows multiple users to communicate with
     pip install pyqt5 pyzmq
 
 2. Run the application:
-    python chat_app.py
+    python user_a.py
